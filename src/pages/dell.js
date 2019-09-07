@@ -21,7 +21,7 @@ class Go extends React.Component {
     return (
       <Layout>
         <SEO title="Down in the Dell"/>
-        <h1>The Adventure starts</h1>
+        <h1>The Adventure starts, yo bro</h1>
         <h2>The Story So Far...</h2>
         <Welcome/>
         <Intro name={name}/>
