@@ -1,1 +1,2 @@
-# dread_dungeon
+# private-dungeon-dread
+A sample project for kids.
