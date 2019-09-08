@@ -22,7 +22,7 @@ class IndexPage extends React.Component {
       <Layout>
         <SEO title="Home"/>
         <section>
-          <h1>Yo Dawg, Welcome to Dungeon Dread</h1>
+          <h1>Welcome to Dungeon Dread...</h1>
           <Welcome/>
           <Container>
             <Row>
